@@ -1,4 +1,4 @@
-shx
+
 
 # React + TypeScript + Vite Project
 
